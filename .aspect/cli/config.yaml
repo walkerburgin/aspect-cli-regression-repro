@@ -1,0 +1,4 @@
+configure:
+  languages:
+    javascript: true
+  plugins:
